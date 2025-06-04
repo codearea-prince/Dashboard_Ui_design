@@ -9,7 +9,9 @@
 
 
 </div>
-<br/>
+
+<br />
+
 ![Dashboard UI Design](./public/Dashboard%20UI%20Design.png)
 
 
